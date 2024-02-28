@@ -1,4 +1,4 @@
-# gridpane-wordpress-template-all-plugins
+# seguru-wordpress-template-all-plugins
 
 This repo is an example of a repo configured for Hybrid deployment
 
